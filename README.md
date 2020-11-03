@@ -10,6 +10,7 @@
 * New Users can see the older messages upon joining the room .
 * All Users can see the list of the people who have joined the room by checking the **Group Info** tab .
 * Users can logout of the chat by clicking the logout button and will get redirected to the login page .
+* Send messages field gets disabled when network goes offline and reverts back to original as network is online 
 * Users can **install** the app on their phone by clicking the **install** button on the search bar or by selecting **Add to Home Screen** option on phone
 and can also use the App in **Offline Mode** .
 * Older messages can be seen in ofline mode and **caching** of messaging is also done in local storage of the browser .
